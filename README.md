@@ -27,6 +27,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0070-climbing-stairs](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1013-fibonacci-number](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -45,6 +46,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -54,4 +56,5 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | ------- |
 | [0070-climbing-stairs](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
