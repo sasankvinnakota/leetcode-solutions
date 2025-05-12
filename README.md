@@ -8,6 +8,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | ------- |
 | [0001-two-sum](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -20,5 +21,10 @@ This repository contains my personal solutions to LeetCode problems, written in 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
