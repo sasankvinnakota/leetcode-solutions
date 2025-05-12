@@ -10,6 +10,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0643-maximum-average-subarray-i](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,8 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
