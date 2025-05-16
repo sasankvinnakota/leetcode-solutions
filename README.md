@@ -13,6 +13,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0643-maximum-average-subarray-i](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0898-transpose-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0898-transpose-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Math
 |  |
 | ------- |
@@ -62,6 +64,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0898-transpose-matrix) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
