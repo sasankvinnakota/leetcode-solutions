@@ -13,6 +13,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0498-diagonal-traverse](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0861-flipping-an-image](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
@@ -24,6 +25,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0861-flipping-an-image](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0861-flipping-an-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -66,6 +68,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+| [0861-flipping-an-image](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
@@ -73,5 +76,10 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+| [0861-flipping-an-image](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0898-transpose-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0861-flipping-an-image](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0861-flipping-an-image) |
 <!---LeetCode Topics End-->
