@@ -10,6 +10,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0004-median-of-two-sorted-arrays](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0498-diagonal-traverse](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0498-diagonal-traverse) |
@@ -54,6 +55,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
