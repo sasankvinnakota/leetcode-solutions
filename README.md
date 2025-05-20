@@ -10,6 +10,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0004-median-of-two-sorted-arrays](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0498-diagonal-traverse](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -22,6 +23,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -68,6 +70,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0498-diagonal-traverse](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0777-toeplitz-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0861-flipping-an-image) |
