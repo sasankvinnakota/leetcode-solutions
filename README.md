@@ -13,6 +13,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0498-diagonal-traverse](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0777-toeplitz-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -68,6 +69,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0498-diagonal-traverse](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0498-diagonal-traverse) |
+| [0777-toeplitz-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
