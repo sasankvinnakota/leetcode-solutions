@@ -58,6 +58,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0050-powx-n](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0258-add-digits](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0258-add-digits) |
 | [1013-fibonacci-number](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
@@ -84,6 +85,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0258-add-digits) |
 | [0498-diagonal-traverse](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0898-transpose-matrix) |
@@ -91,4 +93,8 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0861-flipping-an-image) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
