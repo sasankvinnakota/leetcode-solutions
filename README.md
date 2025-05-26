@@ -55,6 +55,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1013-fibonacci-number) |
@@ -62,6 +63,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0050-powx-n) |
 | [1013-fibonacci-number](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
 |  |
