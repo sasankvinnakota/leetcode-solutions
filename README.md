@@ -17,6 +17,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0643-maximum-average-subarray-i](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0777-toeplitz-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0777-toeplitz-matrix) |
 | [0861-flipping-an-image](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0861-flipping-an-image) |
+| [0890-lemonade-change](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0890-lemonade-change) |
 | [0898-transpose-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
@@ -126,4 +127,8 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0160-intersection-of-two-linked-lists](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0237-delete-node-in-a-linked-list) |
+## Greedy
+|  |
+| ------- |
+| [0890-lemonade-change](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0890-lemonade-change) |
 <!---LeetCode Topics End-->
