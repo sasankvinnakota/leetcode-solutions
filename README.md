@@ -29,6 +29,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0141-linked-list-cycle](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
+| [0900-reordered-power-of-2](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,6 +70,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0070-climbing-stairs](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0412-fizz-buzz) |
+| [0900-reordered-power-of-2](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
@@ -131,4 +133,16 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0890-lemonade-change](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0890-lemonade-change) |
+## Sorting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
+## Counting
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
+## Enumeration
+|  |
+| ------- |
+| [0900-reordered-power-of-2](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
 <!---LeetCode Topics End-->
