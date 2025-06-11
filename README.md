@@ -21,6 +21,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0898-transpose-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0898-transpose-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1677-matrix-diagonal-sum) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 | [0498-diagonal-traverse](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0498-diagonal-traverse) |
 | [0861-flipping-an-image](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0861-flipping-an-image) |
 | [0898-transpose-matrix](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0898-transpose-matrix) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -145,4 +147,12 @@ This repository contains my personal solutions to LeetCode problems, written in 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0900-reordered-power-of-2) |
+## Stack
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
