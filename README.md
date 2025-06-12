@@ -158,10 +158,12 @@ This repository contains my personal solutions to LeetCode problems, written in 
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -170,5 +172,10 @@ This repository contains my personal solutions to LeetCode problems, written in 
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
