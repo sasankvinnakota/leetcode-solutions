@@ -150,6 +150,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
@@ -158,12 +159,14 @@ This repository contains my personal solutions to LeetCode problems, written in 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -174,6 +177,7 @@ This repository contains my personal solutions to LeetCode problems, written in 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0101-symmetric-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sasankvinnakota/leetcode-solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
